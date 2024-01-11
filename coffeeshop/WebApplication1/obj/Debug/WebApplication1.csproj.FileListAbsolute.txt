@@ -1,0 +1,5 @@
+C:\Users\Hp\Documents\thekkzz\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Hp\Documents\thekkzz\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Hp\Documents\thekkzz\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Hp\Documents\thekkzz\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Hp\Documents\thekkzz\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
